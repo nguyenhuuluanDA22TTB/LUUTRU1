@@ -1,4 +1,4 @@
-#includde<stdio.h>
+#include<stdio.h>
 int main()
 {
     printf("\nthan chao cac ban DA22TTB");
